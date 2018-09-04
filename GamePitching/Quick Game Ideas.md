@@ -1,10 +1,18 @@
 # Quick Game Ideas
 **The next game**  
-Gane where you go through multiple levels with that seemed completely different as you progress with emphasis on game design. 
+Gane where you go through multiple levels with that seemed completely different as you progress with emphasis on game design.     
+*catchphrase*    
+The next game will be different    
+*features*    
+Each level different character  
+Some level can switch characters  
+Different game progression  
+Different obstacles  
+Different objectives  
 
 
 
-# Parodies
+# Parodies  
 The 3judges (simon american idol parody) 
 Game where you tap button to disqualify contestant. Disqualify too many people and bad ending everyone boos you
 Let too many people win, no clear winner, people fight each other over the trophy
