@@ -24,7 +24,9 @@ What would you do if you have the ability to time travel?
 Foxtrot unifirm charlie kilo  
 What do you miss the most…  
 
-The kind of games that even babies woukd enjoy
+The kind of games that even babies woukd enjoy. 
+
+The past is the time to reverse engineer, now is the time to create
 
 Game titles with sarcasm
 The first game
@@ -55,7 +57,12 @@ Different sound effects
 ## Parodies  
 The 3judges (simon american idol parody) 
 Game where you tap button to disqualify contestant. Disqualify too many people and bad ending everyone boos you
-Let too many people win, no clear winner, people fight each other over the trophy
+Let too many people win, no clear winner, people fight each other over the trophy  
+
+Ironman free
+Game whede you play as a cybernetic that goes haywire and start causing destruction  
+Control the cybernetic and complete missions or roam around having fun with the world  
+Ghost city  
 
 
 ## Dev Lesson
@@ -65,6 +72,7 @@ That's what really matters at first.
 - design matters more
 - programming is the easy part 
 - player experience and the emotions you inflict on to them are important 
+
 
 
 **GameJam<GameName>**
