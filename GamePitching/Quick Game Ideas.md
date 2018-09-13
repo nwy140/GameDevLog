@@ -65,6 +65,13 @@ Control the cybernetic and complete missions or roam around having fun with the 
 Ghost city  
 
 
+Guard lightsabers
+- game where you plag as rraffic police guards and fight with your traffic light sabers 
+
+
+Bsllon ride
+- ride on the ballon with out getting pop
+- animal ballon skils horse panda dog
 ## Dev Lesson
 Firdt thing you should create is game level progression. 
 That's what really matters at first. 
@@ -72,7 +79,10 @@ That's what really matters at first.
 - design matters more
 - programming is the easy part 
 - player experience and the emotions you inflict on to them are important 
+- make the game attractive to thw eyes pf the kid
 
+Fact? 
+- young people prefer games with swipe, tap and touch controls without buttons
 
 
 **GameJam<GameName>**
