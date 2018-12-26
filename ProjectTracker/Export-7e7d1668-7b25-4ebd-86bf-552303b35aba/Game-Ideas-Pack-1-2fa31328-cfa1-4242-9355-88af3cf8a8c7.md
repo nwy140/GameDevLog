@@ -1,0 +1,571 @@
+# Game Ideas Pack 1
+
+Created: Dec 25, 2018 5:20 PM
+Tags: PreProduction
+Type: BrainStorm
+
+# Game Ideas Pack 1 (Part 1)
+
+## Middle Scale Games
+
+- Ufos are curious about earth,
+    - play as a UFO who abducts and converts abductees into doing their desires by mind control and invade and takeover cities.
+- Run, animals, RUUUN!!!
+    - Play as a runaway predator animal from the zoo.
+    - Your goal is to reach the forest and your habitat. Attack people to heal and hop over obstacles to avoid damage.
+- City protector
+    - meteors are falling on earth, you must destroy all these neteors before they hit your city.
+    - Some meteor contains hostile creatures inhabitants you have to fight
+- City hopper
+    - You are a ninja/thief, you hop over buildings and sneak in buildings for loot.
+    - More loots you get stealthily, the higher your score
+- Destruction mayhem
+    - You are some character/robot/creature
+    - you must smash up these properties to gain score and escape before you are destroyed/caught by authorities
+- Newless
+    - You are a person who's stuck in a world of nowhere, you must find your way out
+- Depression: A game where you play as a guardian angel that does whatever they can to stop the person they want to save from killing themselves
+    - Grab their weapons away
+    - Stop time before they fall and put them back up away from impact
+    - Enter their mind and block away negative thoughts physically such as exam failure, breakups, guilt. Shower them with motivation to improve the life light.
+    - If live light greater than 0, person will continue living and lose suicidal tendencies
+- SFight
+    - Stick figures with anime moves e.g Kamehameha, Dbz dodge, Rasengan, ki blast
+- Crocodile in the sewer game
+    - play as a crocoduke in the sewer, jump out of longkang and try to eat anyone without attracting attention to yourself
+    - eat everyone in the map to proceed
+- Monkey Climb
+    - play as a monkey, climb trees and open up, and pickup and eat as many fruits as you can withoutt getting attacked and strangled by the snake and hunters and other predators.
+    - Rescue young monkeys and brings them with you
+- Don't let the thieves in the house/bank game.
+    - Close all the doors and windows, so the theif can't come in.
+        - If thief comes in, you would have to find a way to stop them from looting you.
+- Ape man
+    - play as tarzan and saves captive gorillas from hunters.
+    - Do not get killed by hunters, hang then to vines to murder them like clayton or use their own guns against them.
+    - Accidentally killing a gorilla means gameover
+    - Raised by Animals
+        - Play as a human raised by animals
+        - Raised by wolves, dogs,
+        - apes, bigfoot
+        - tribes, cannibals
+- Bird Fighters
+    - Play as a bird, fight each other on the sky, DBZ Style .
+    - Equip weaponry and shoot at each other. Star Wars style.
+    - Fight predators land or sky bosses like snakes or lions, and mythical creatures dragon king kong bosses
+- Hikikomori game
+    - A game whete you play as an unemployed and depressed young adult who is stucked living in a room doing nothing for the rest of their lives...
+- Harem Run
+    - You are the harem protagonists of an anime. Every single female character in the anime is chading after you, you must avoid them at all cost and avoid tripping over them.
+    - There are tsundere and yandere enemies and enemies with magical girl superpowers.
+    - Starts in a classroom, scnenes changes from school premises to the streets of japan. Get in a train and you have to avoid getting tackled
+    - Pickup and use harem love gun to shoot at an enemy to stop them from chasing you
+    - You can pick a themes fot your run, hero school, ninja school, assasin school, cooking school and what not
+    - Change dimensions, clothed chsnge appearance change people dont recognise you
+
+# Real hypercasual ganes
+
+- BreakingWorld
+    - The world is breaking, you must keep moving forward before the world breaks
+    - Don't fall into the holes
+        - Initial idea rolling ball dont fall
+- Drop the ball. Manipulate environment to allow ball to move. If ball keeps moving, you score points
+- SlashSwipes
+    - Tap to jump, Swipe to explode. Game where you deploy mini robots to destroy something
+- LIGHTSPEED
+    - Keep Boosting, keep blasting off into space while avoiding ufo attacks and asteroids.
+    - THE LONGER YOU FLY AWAY AND LONGER THE DISTANCE FROM EARTH, THE LONGER YOUR SCORE.
+    - Settle down in certains planets to rest and renergise your plane?
+- Lazer reflect
+    - You are a laser, you bounce when you hit walls, swipe to change directions, tap to split into half.
+    - The more enemy robots/drones you destroy, the bigger your laser.
+    - Directions
+        - Ball cell split eat game
+- Patterns game
+    - Select patterns of your choice and roam around the world of that pattern infinitely
+- Spicy foods
+    - You are really hit now, you must look for your drink to calm down, but your drink is nowhere to be found so you must get to it before your tongue burns out
+- Njnja swap
+    - Swap yourself with anything in the game in order to survive
+- World Change
+    - Swipe to change your world, tap to spawn random actors/props.
+    - Once player is spawned, you must make sure player doesn't get destroyed by anything you spawned.
+    - Each time player reach a key destination area, you score one point and you have to swipe to the next world
+- Shield & Sword
+    - Rotate your shield and swords around your character.
+    - Alter between shields and swords, swipe to change between shield and sword. Tap to fire sword/reflect swords and projectiles.
+    - In this game, you have to do whatever it takes to protect your planet/ball from getting damage from other enemies.
+- Noodle man
+    - Wrap flies with noodles before reaches your noodles
+- Flip the egg
+    - Gun game gun gets damage, gun shoot each others
+- Whack your friends game
+    - whack a mole style game where you whack random profile pictures of your friend or famous people
+- Protect the heart
+    - play as other whitebloodcells in the body, protect heart from being attacked by microbes by engulfing.
+    - Go back to lympth to recover and be able to engulf more
+- Spinning wheel game cannon
+- Confiscated, the game
+    - Goal of this game is to recover anything that is confiscated
+- Debate fight game, based on najib vs mahathir
+- Shapeshifting game
+    - Shafting player which changes shape for sirrent obstacles and enemies.
+- Shoot the fruits.
+    - Fruit ninja clone with shootinh mechanicd bia gub/slingshots
+- Flippy bottle,
+    - Flip the bottle game, flip the bottle and make sure it doesnt fall out of screen game.
+    - Use your hand to block it via holding screen, release finger to flip bottle, full flip earn point, land on finger earns more points
+- Bugger,
+    - you play as a bug on a table, and you have to avoid getting squash by dishes and hands while collecting /draining food.
+    - Meet other big bugs / fight them. There are other bugs on the same table
+- Box ma table
+    - You play as a box on a table that goes towards wherever you tap.
+    - Your goal is to push everything on the table down to the floor.
+    - As you push more items to the table, Another hand drops more of them into the table.
+    - You must push them all off.
+- Fish. Io,
+    - Sidescrolling feeding frenzy style game where you eat everyone
+- Crush. Io
+    - Rolling ball destroys the world
+- Shoot. Io,
+    - Top down view shape shooting game
+- [Conquer.io](http://conquer.io/),
+    - Conquer peoples territory by stealing their crown
+- Plane. Io,
+    - Unlimited dogfighting game
+- Shadow. Io,
+    - Cover the entire map with shadow to defeat the light.
+- Flyingworld. Io,
+    - You are on a flying tile, Jump move from tile to tile and avoid falling
+- Sharp shooter io,
+    - Shoot targets to gain points
+- Marathon io,
+    - endless runner game where you bump into other players who are runners and ram them to defeat them.
+    - Increase your running speed by grabbing sodas and performing parkour moves
+- Smash the phone game, like how to basic
+- Shootie bird
+    - you are a delivery pigeon bird with a gun attached to its leg.
+    - Your quest is to kill any flying creature that blocks your way towards and fight your way through until you reach your delivery mailbox.
+- Smoking man,
+    - light up a cigarette.
+    - The more you can smoke longer without passing out, the greater your high score.
+- Sleep walking
+    - you are a sleepy man who sleeps walk everytime he falls alseep.
+    - Your goal is to guide the sleep walker back to his room.
+- Eraser on top
+    - Press eraser to flip them
+    - Flip then on top of other's erassr to win
+- Karem style cliff
+    - Tap to fire towards direction
+    - Hit enemies's erasers of game
+- Glove fighters
+    - Tap to punch
+    - Push enemies of cliff to win
+- MeteorShots
+    - Shoot all meteors before the crush your city
+    - Protect KLCC from meteors
+    - Protect KLCC from UFO
+
+---
+
+# Game Ideas Pack 1 (Part 2)
+
+# Game Design Strategies
+
+- Tap Games
+    - Games that only requires you to tap them
+- Marketing Strategies
+    - Add high score and level up system
+    - And daily rewards to create an addiction
+    - And currency to purchase new maps, skins and characters
+    - And daily leaderboard that rewards the top 100 players
+
+## Mobile Apps
+
+- Mindmap skilltree app
+- 9Time Log app
+- Action block app
+    - App where a few things actions display on screen in a weekly timetable, tap screen to mean you have done the thing for the day
+- Draw and share
+    - An app where you draw whatever you want and all users can see it and share
+- MultiPlayer
+    - A buggy music player that can more than 1 song at the same time
+- Hack Distract
+    - Create an app that vibrates, turns on flashlight and receives messages and records video , when a person who have hack controller can activate these features
+- App that rings every hour
+- App that make a video of a video playing 1000 000 times
+    - Like this : [https://www.youtube.com/watch?v=jlNEm9az9DI](https://www.youtube.com/watch?v=jlNEm9az9DI)
+- Screw Your habbits app
+    - Write an app that says what will you do tomorrow, if you dont do it , you are screwed . Witha nimation of you getting screwed, and animatiojs of you winning. If lie is pick, you will be thrown to sky and rocket sashed burn
+- Quit Habbits app (for Gamequitters, addicts etc)
+    - Word battle app ( game that you win if you typed out the most words the most points for a word starting with a particular character)
+- Rubber duck debugging
+- Malaysian app of the day
+- Vibrate Forever app
+    - Wont stop vibrating Download this app , and your phone wont stop vibrating
+- Android Peeing on Apple 3D
+    - There's nothing in this app, just an animation.
+    - When you tap the screen, android pees on an Apple, thats all
+    - Inspired by google maps
+
+# Game Ideas Pack 1 (Part 3)
+
+# Massive Games
+
+- Parkour game
+- End Less Runner Customizer
+- Bouncy (A game where a human/animal is turned into a ball, and explore the world and do whatever it wants)(bounces around)
+- Attention seeker game.( internet attention seeking
+- Middle Finger The Game ( A Game where A middle Finger keeps following you , and you have to avoid it or die)
+- Finger shooter fps game
+    - Plays as kids
+    - Playing hide and sick shooting each other
+- Wushu Rangers
+    - A Martial Arts Fighting Game Featuring the wushu rangers
+    - Players plays as a local ranger team that fights random yaoquai that shows up randomly around the chinese populated areas including chinatown and the park and the temples.
+
+    ## Featuring my friend Lee Rui En's Team
+
+- School Fighter
+    - Play as a student taking down 30 other students and teachers
+    - Parkour, run across classrooms
+    - skips classes
+    - interrupt examinations
+    - steal equipments
+- World Legendz
+    - ThirdPerson / showdown Fighting Game featuring Iconic legends such as Bruce Lee, Chuck Norris, Muhammad Ali, Donnie Yen, Yip Man(Old)
+    - And Impersonators
+- Play as a Giant that destroy the world
+    - Eat people
+    - Sit on objects
+    - Fight police and army
+    - Defeat robots and super heros
+    - Wombo objects
+    - Mini objects
+- Mat Rempit
+- Children Underage joy riding game
+    - [https://www.youtube.com/watch?v=CHF1FePB3rU](https://www.youtube.com/watch?v=CHF1FePB3rU)
+- 3D snake game
+- Throw game ( throw people into basketball nets/lava/sea sharks sea monsters game) (push each other of the cliff, last one standing is winner, and gets to control monster) (or game that scores points as many people / objects throw as possible)
+- Parachute game (whoever who lands on boat wins)?
+- Hokaido sushi 3d game ( based on real life experience)
+- Skate/Surf down mountains jump game
+- Flying space fight game
+- Gummi Ship style Plane Fighter Game
+    - A game where you can build awesome planes fighters like building gummi ships, pilot them and fight
+- Austranaut battle aliens
+    - Astronaut battles aliens on moon game
+    - Fly around jetpack fire anti gravity
+- Hero association task force game
+    - Play as heroes from multiple class levels
+    - Inspired by one punch man and rat man
+- Agar Io 3d
+    - With obstacle courses and missions
+    - crush bysyannders and animals
+- Archer game
+    - Shoot birds
+- Rocket launcher game
+    - Play as missile launched
+    - Shoot military jets
+    - Dodge attacks missiles and kamikaze
+- Meteor game (summon meteor to destroy earth)
+- Alien abduction game
+- Matrix Parasite/ alien parasite
+    - Game where you play as a matrix parasite digging in belly buttons and entering humans through their eyes, mouths and ears
+    - Then allow you to posses the human and use its body to conjure metallic parasitical attacks
+    - You can jump from host to host and lay eggs on previous host
+    - Once all your host are killed/cured, you lose
+- Catch a predator (inspired by luxury pranks, dark justice and to catch a predator)
+- Dream game (a game about dreams of past experiences and imaginations) (paradise and nightmare)
+- Detective / Crime evidence hide game ( with multiple endings and tragedy)
+- Survive ( a game about realistic life and death situation such as house fires, burglary, murder and terrorism . Think and use skills and a little martial arts to survive)(natural disaster)
+- Real fun ( a game about playing physical games with childrens such as ball throwing, ultraman , hide and sick, cops and robbers, straw mouth, suspect murder, hand touch game charge until gun ,musical chairs)
+- Coop Multiplayer Opening Rooms Sidescrolling game
+- Pizza delivery extreme
+    - Get chased by monsters,robberd and cops while delivering pizzas
+- Push objects to destination game
+    - Puzzle game
+    - Push people over a cliff, fall to dusbin or floor
+- Rooftop fighter
+    - A game about fighting in the rooftop , last one standing in the roof wins
+    - play on all kinds of different roof map
+- Stay at home
+    - A game about hiding in your homw
+    - While outside is
+    - Chaos
+        - Riot, war, terrorist, gunfights
+        - Monsters,Zombie,alien invasions
+- HitTheButton Room Escape Game
+    - First Person Building Escape style game
+    - Where you solves puzzle and gain acess to the red button in order to leave your room
+    - Modes
+        - Hikikomori mode
+        - Prison Mode
+        - Basement mode
+        - Kidnapped mode
+        - SpaceShip mode
+        - UFO mode
+        - Alien Planet mode
+        - Disaster mode nuclear
+        - tsunami
+        - volcano
+        - tornado
+        - Hurricane
+        - Zombie Apocalyspse
+        - Alien Invasion
+- 3D Zombie Driveby Game
+    - Shoot Zombies that are trying to get to your vehicle and break your glass,
+    - while your partner is driving. Survive as long as possible with a high score
+    - If glass is break, zombie can eat you
+- Burglary Game
+    - Pick lock door
+    - Stealth steal carrry
+    - dont get detected by neighbour
+    - takedown people in homes
+    - escape with items to win
+    - hot wire a car to blast off quick victory
+    - sell off your items or take them as your own
+    - if you alerted the neighbourhood,
+    - people will come, 5 mins later cops sill come.
+    - rob other player's home
+    - coop rob
+    - big win rob bank
+- Party style Game
+    - Party style game with many mini games
+    - Hide and seek
+    - Throw cubes and ovjects at each other until all objects around you are no more to win.
+- Pursuits in a nutshell Game
+    - 2/3d plaftformer
+    - Where you are in a pursuit,
+    - And you have to avoid the cop and run
+- Catch Santa Game
+    - Parkour Game Where you have to chase down Santa after he leaves you a present. Catch Santa before he gets in his flying deer!!!
+    - Or play as santa running away
+    - Elves will block your way and stuff you in a Gift Box/Bag
+    - Avoid them or jump over them
+- Typing while walking game
+    - Type while walking or look at the road temporary
+    - High score endless style game
+    - game over anim really paunful fall and collision injury fall down pain
+- Catch objects
+    - Fire building
+    - Throw kids, people and important belongings out
+    - Catch them
+    - Once all clear owner jump,
+    - Catch owner to win
+- Finger world killer
+    - Tap a planet to destroy it
+    - Or eat it
+- Real life ( a game about living in poverty and surviving , labour)
+- Heal ( a game about healing people and being comforted by their smiles , and joy)
+- 2.6 billion ( a game hiding money and the fect you stole them)
+- Empire Tank war game special
+- Parkour Ninja Warrior Style Game
+- I want to go home game
+    - The goal of this game is to go home from whateever situation you are in
+- Drinking game
+    - Drink as much alcohol as you can until your opponent pass out
+- Eating Game
+    - Eat as much food in a buffet as possible until your opponent vomits
+    - like mr bean hotel oyster guy
+- Handle the smoker game
+    - Hold your breath when the smoker smokes
+    - If inhaled 30 seconds of smoke, player pass out, win once smoker runs out of cigarette
+    - If player as smoker, try and make player pass out
+    - Maps
+        - Restaurant mode
+        - Shopping mall mode
+        - Toilet mode
+        - School mode
+        - Walkway mode
+        - Train Mode
+        - Dating Mode
+- Animation click (touch objects and character to trigger animations)
+- Shoplifting the game
+- Horse riders
+    - Side scroller horse game
+    - you can jump of horse or stay on top
+    - kick other riders off their horse
+    - survive
+- Toy Fight
+    - A game based on Ultra mac Films' stop motion films and fights that are awesomely choegraphed
+- Unicorn endless runner
+- Animal zoo/forest escape to civilised city simulator
+    - Harambe style
+    - As you wake around outside of habitat, human gets more afraid and are willing to pull triggger.
+    - Play as jaguar, lion
+    - Gorilla, bear
+    - Mythical bigfoot
+- Chopstick titan
+    - Giant titan eat humans or anything using chopsticks
+    - Endless runner
+    - Atk on titan style
+- Flappy fly highway while avoiding sign boards and peeing on cars to fight
+    - Sometimes dog will try to jump and eat bird
+    - and predators will attack bird
+    - if reached jungle, fight with hunters
+    - number of pee is limited, eat to refill
+- Najib: Lost of power
+    - Dishonored style game of najin
+    - Powers
+    - Buang duit
+    - Rahsuah
+    - Charm
+    - PM Boast
+- Crane lifting construction site game
+- Fighting spider
+- Break glass game
+    - Cup, place cup on top of cup, lose when cup fall
+- Jake/Logan Paul Youtube Pranks style game
+    - Do pranks in public / anywhere to get internet attention and become a youtube sensation
+- Celebrity Paparazzi escape
+    - Play as any celebrity including JB, Michael Jackson(revived), Famous Actors, Tobey McGuire,
+    - running away from fans and cameras reporters
+    - Avoid invasion of privacy
+- Fishing Humans Game
+    - Throw hook at swimming pool and catch peoples
+    - Put them inside aquarium
+    - give them snorkling gogles to let them survive
+- Giga Battle (generic fps game about shooting king kong, godzilla, goku , iron man suits , kamen rider , tranformer and power ranger style situations)
+- Ninja game slash , hide slash
+- Toy football app
+- Phone fall in the drain
+    - Retrieve the phone game
+    - Use hand, sticks, chewing gum sticky, magnet and drone and summon partner and rage to retreive fallen phone
+- Punching Machine app
+- Whack A Mole
+    - Whack A Mole 10 times to destroy a machine
+- Story of my life
+    - A game where users can create stories and scenes
+    - That try to tell their real world experience.
+    - Usually played in third person using selected character model.
+- Crazy Box Game
+    - Crazy Box is chasing you, you must avoid getting squash
+    - Avoid Getting Squashed Game
+    - Walls are crushing you, quickly get away!!!
+- Block the AI Game
+    - A Game where you do whatever you can to block the AI
+    - moving boxes, blocks cars anything to block the AI
+- Play as a dinosaur in mordern day game
+    - Mythical Creatures
+    - Dragons,
+    - Titanoboa
+    - Kraken
+    - Loch Ness Monster
+    - Inspiration: [https://www.youtube.com/watch?v=q-XUrm7pCCI](https://www.youtube.com/watch?v=q-XUrm7pCCI)
+- Swim underwater game
+- Procrastination the game
+- Waifu game
+    - Play as your waifu
+- Deforestation the Game
+    - A Game About deforestation,
+    - wood cutting and destroying the forest and the inhabitants of the forest.
+    - Pick a side, wood cutter poacher farmer fire destroyer,
+    - or animals and animal ranger that protects wildlife and forest
+- Punch the guy game
+    - Like tap titans
+    - Tap the screen to punch the guy
+    - Can stick a face picture from your phone gallery as a mask for the guy's face
+    - dragon ball style punching
+    - punching the guy too fast will turn you into a super saiya people
+- Crush
+    - A game about having a crush on a girl
+    - Dating Sim Style
+- Gravity Marble app
+- Hikikomori Life Game
+- Balik Kampung Game
+    - Highway drive all the way till you reach kampung
+- Phone addicts simulator
+    - Game where your parents wont stop looking at their phones
+    - And you have to find a way to stop them from doing so
+    - Whether it is bt destrying their phones
+    - Or makingal an app thag bug their phones out
+- Natural Disaster Simulator
+- OverpopuledWorld Simulator
+- Homeless simulator
+- Garbage man simulator
+- Rescue Game
+    - Rescue survivors game or get to rescue vehicle game
+- Jurassic survive game
+    - Survive in jurassic forest until SOS helicopter comes
+    - Reach SOS Helicopter nearest location , signal via fireworks
+    - Inspired by jurassic warcraft 3 map
+- UFO abduction Game
+- Joyride game
+    - Joyride Game of driving car without license escape cops
+- Inside Plane Game
+    - Play as a Passenger in a plane dealing with all kinds of situtations
+- Dog/Cat
+    - Play as a dog
+        - Can bark
+        - Cant jump high , but ferocious and strong
+    - Play as Cat
+        - Fast quick, cute
+        - Can meow, ask for cood
+        - Can jump high
+    - Search for food
+    - Try and stay as long as possible
+    - Avoid human hazards like vehicles and people
+    - rabies mode
+    - bite and turn as many creatures crazy anf saliva mouth watering as possible
+- Rescape Side Scroller Stickman Game
+    - Press up near obstacles to parkour over them.
+    - Spacebar to do a generic jump
+    - Background is drawn simple like paint
+    - When reach door, reach near floor
+    - dodge needles
+    - Levels
+        - 1st level Escape Fire or Level 1: Apartment, hop over fires and hazard, save others as you go a long , especially when you found a fire extinguisher.
+        - 2nd level defeat molotov gang or Level 2: Look around for the culprit, chase the culprit with parkour without falling to death. integorate him , then Choose to let go hand or let culprit fall.
+        - 3rd level Fight Human Head stick with flamethrower or Level 3: He led you to his gang, defeat his gang then meet flamethrower boss. Boss will be person firing gun
+        - Level 4:Free Roam
+    - a bomb has exploded ib tour apartment, you woke up and find area full of fire.
+    - you need to get down.
+    - Save orhers as you go or else you will lose save.
+    - Rescape 3D Ver
+    - Move to next floor
+    - Reach Exit or Rescue Vehicle
+- Truth or dare simulator
+    - Most pick true
+    - If pick dare wrong, break fingers with axe
+- Dodge knife game
+- Shoot gun at mouse dot pointer game
+- Dodger game
+    - Dodge canon shots
+    - Bullets
+    - Chainsaws
+    - Bombs
+    - acid spray
+- Chainsaw
+    - A game about running away from crazy chainsaw people
+- Alias game
+    - Game about identify theft
+- Kidnap: the game
+    - A game where you kidnsp people of various location for
+    - (Human experiment,organ trade, slave, all kinds of things)
+    - Very dark game
+- The Last Day
+    - It is the last day of your life
+    - What will you do
+    --Simulations--
+- Animal simulator
+- Bigfoot simulator
+- Household insect simulator + Cat and dog simulator
+- Rabies simulator
+- Doctor simulator
+- School simulator
+- Dodgeball simulator
+- Goalkeeper similator
+- Phone simulator
+- Brush teeth and dentist simulator
+- Sleep and insomnia simulator
+- Bear simulator remake
+- Disaster Simulator
+    - About Natural disaster
+    - Hurricane
+    - Tsunami
+    - Flood
+    - EarthQuake
+- Richman Simulator
+- Kaiju Monster attack sinulator
+- Skip School Simulator

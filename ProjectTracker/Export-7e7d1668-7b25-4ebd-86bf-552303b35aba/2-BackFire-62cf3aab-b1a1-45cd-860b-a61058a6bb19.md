@@ -1,0 +1,191 @@
+# **2.BackFire**
+
+Created: Dec 25, 2018 9:03 PM
+Status: NotStarted
+Tags: PreProduction
+Type: Project
+
+# **2.BackFire**
+
+***Progress : Development not Started***
+
+**Contents**
+
+- **Short Description**
+- **Summary**
+- **World Setting**
+- **Plot**
+- **Player Experience**
+- **GamePlay**
+
+**Mechanics**
+
+**Win/Lose Condition**
+
+**Items**
+
+**Easter Eggs**
+
+**Short Description**
+
+A game about exploring a futuristic procedurally generated alien spaceship.
+
+**Summary**
+
+Backfired is third person survival Sci-Fi game. Player controls a surviving abductee who roams around the alien mothership in an effort to survive. Player will have to rely on items scattered around the mothership to survive while fighting off any creature that are deemed harmful while friendly creatures can be taken as allies. Player will have to take risks in order to navigate around the corridors in the spaceship, player will only be able to fight back if armed with weapons, otherwise player will have to use stealth and distractions to sneak through enemies.Items and resources are limited, so player will have to use their supplies properly.
+
+**World Setting**
+
+An advanced high tech alien mothership driven floating across the galaxy. Traveling really fast across the galaxy
+
+\*\Plot \\*
+
+(Abduction Scene)
+
+MH370 abducted / Abducted while asleep / Abducted while roaming streets or desert or sea or driving
+
+Stucked in Space Frozen for 20 years. Space time is slower than earth time.
+
+**Mechanics**
+
+**Game Progression**
+
+The interior of the spaceship is procedurally generated. Player will awake in a room full of other frozen,mutated,dissected humans and creatures from earth.
+
+Once awake, player will have to keep navigating towards other rooms and explore the spaceship. Maximum numbers of Doors is 4 for each room, each time a player enters a door, a new room will be procedurally generated. Rooms generated may have weapons, or enemies , or powerups , traps, or items such as alien drones or may trigger certain events such as teleportation or boss fights. Player can throw any item around to distract/damage enemies like in HITMAN. Environments in each rooms can be utilized, such as hiding in boxes, crates. Allies can be recruited from survivors and friendly creatures. There should be at least 5 to 10 different environments type for procedural generation.
+
+Enemies
+
+Mutated Humans
+
+Mutated Animals Specimen
+
+AlienCrew(Invader) (Wield a variety of weapons)
+
+GiantAlienCrew(Invader)(More Health, behave like AlienCrew)
+
+FriendlyAlienCreature ( Alien Hostage from other planet, not invader)
+
+OtherAlienCreatures (All kinds of other aliens)
+
+Robots
+
+Turret Drones
+
+Once the player enters an alien UFO Jet, the spaceship booth will open and the player will have to outrun and dodge space ships attacks and other UFO attacks. Player will have to eliminate other alien ufo and flee to another planet or defeat the boss.
+
+Player can play as alien or abductee
+
+**Win/Lose Condtion**
+
+Alien will have to capture/kill abductee
+
+Player will have to avoid capture/death from alien
+
+Player
+
+Win Condition : Destroyed Spaceship, Saved hostages, Returned to Earth
+
+Loss Condition : Captured, Died, Mutated
+
+Alien
+
+Win Condition : Destroy Player, Destroy Earth, Destroy Player Ship
+
+Loss Condition : Died, Player Escaped, SpaceShip Destroyed, Hostage Saved
+
+**Rooms**
+
+Gravity room multiplier
+
+Gravity switch room
+
+Bouncy floor room
+
+Spinning Room
+
+Simulation room
+
+**Boss**
+
+Boros
+
+Squid Black hole
+
+**Items**
+
+Weaponry
+
+Generic Weapons : Pistol, Machine Gun, Rifle, Sniper, RocketLauncher, Grenade, Flamethrower
+
+Generic Sci Fi : ShockGun, Resize Gun, BlackHole, Acid Spray, Water Gun, FreezeGun,
+
+Special Weapons
+
+#--#
+
+Item Magnet Blast (Similar to the gravity Gun in Half Life) (Magnet attracts any item within radius, once released, item fly towards crosshair direction)
+
+Shapeshifting Sword
+
+#--#
+
+Items
+
+Generic Consumable Items : Potion, Ammo, Adrenaline Rush, Armor, Attack Boost, Damage reduction
+
+Everyday Items: Mobile Phone, bucket,
+
+Misc Items: Shield
+
+Special Items
+
+#--#
+
+Shoe Shockwave (Provides Jumping boost, sphere trace radius damage enemies within radius)
+
+Sticky Shoes (Allows Players to walk on walls)
+
+Omnitrix Clone (Basically lets you turn into any character you’ve scanned)
+
+#--#
+
+Vehicles
+
+#--#
+
+2 Wheeled Vehicle car
+
+Abducted trucks and cars and bikes
+
+Bowling Car
+
+Glass Sphered Car
+
+Floating mini human size ufo
+
+JetPack
+
+Ironman shoes
+
+SpiderDrone
+
+#--#
+
+**Easter Eggs References**
+
+New Alien Species on Earth? :[https://www.youtube.com/watch?v=sDNAnPMX564](https://www.youtube.com/watch?v=sDNAnPMX564)
+
+Mythical Creatures in Spaceship frozen
+
+Dinosaurs
+
+Piloting a UFO :[https://www.youtube.com/watch?v=QIxzvtmF0t4](https://www.youtube.com/watch?v=QIxzvtmF0t4)Using mind to control Ufo
+
+Time Traveller Acting?:[https://www.youtube.com/user/myApexTV/videos](https://www.youtube.com/user/myApexTV/videos)
+
+Meeting with Aliens? :[https://www.youtube.com/watch?v=FCdkOL6OUf4](https://www.youtube.com/watch?v=FCdkOL6OUf4)
+
+SpaceSounds:[https://www.youtube.com/watch?v=-MmWeZHsQzs](https://www.youtube.com/watch?v=-MmWeZHsQzs)
+
+Aliens? =[https://en.wikipedia.org/wiki/Martian](https://en.wikipedia.org/wiki/Martian)
