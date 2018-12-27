@@ -1,6 +1,6 @@
 # Readme.md
-This folder in this repository stores documentation and project tracking for my work.
-Markdown documentation written using cloudcannon,prose.io, stackedit and fasthub mobile app
+This folder in this repository stores documentation and project tracking for my work.  
+Markdown is documentation written using cloudcannon,prose.io, stackedit and fasthub mobile app
 
 # Table of Contents
 - [Projects](#Projects)
