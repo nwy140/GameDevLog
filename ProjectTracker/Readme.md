@@ -24,16 +24,16 @@ Below are the list of Games Design Documents Ready for Development
 Below are a compilation of ideas from my BrainStorming
 1. [GameIdeasPack1](https://github.com/nwy140/GameDevLog/blob/master/ProjectTracker/docs/projects/brainstorming/GameIdeasPack1.md)
 2. [GameIdeasPack2](https://github.com/nwy140/GameDevLog/blob/master/ProjectTracker/docs/projects/brainstorming/GameIdeasPack2.md)
-3. [GameIdeasPack3](
+3. [GameIdeasPack3](https://github.com/nwy140/GameDevLog/blob/master/ProjectTracker/docs/projects/brainstorming/GameIdeasPack3.md)
+4. [GameIdeasPack4](https://github.com/nwy140/GameDevLog/blob/master/ProjectTracker/docs/projects/brainstorming/GameIdeasPack4.md)
+5. [GameIdeasPack5](https://github.com/nwy140/GameDevLog/blob/master/ProjectTracker/docs/projects/brainstorming/GameIdeasPack5.md)
 
 ### Challenges
 Below are the challenges that I decided to partake
-1. (Challenge 1)[Challenge1]
-
-
-okay
+1. [GameAWeek](https://github.com/nwy140/GameDevLog/blob/master/ProjectTracker/docs/challenges/Challenge_GameAWeek.md)
+2. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAwMzE0MzU1XX0=
+eyJoaXN0b3J5IjpbMTcyMjIzMDA0N119
 -->
