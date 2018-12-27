@@ -11,7 +11,7 @@ This folder in this repository stores documentation and project tracking for my 
 
 ### VideoGames
 Below are the list of Games Design Documents Ready for Development
-1. [PlanetRocketBoost]() 
+1. [PlanetRocketBoost](/docs/projects/videogames/1.PlanetRocketBoost.md) 
 2. [
 3.
 
