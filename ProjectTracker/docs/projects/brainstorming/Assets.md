@@ -17,15 +17,22 @@ https://www.youtube.com/watch?v=ZIOlc6XIZLI
 https://www.youtube.com/playlist?list=PLS9MbmO_ssyBV81FrTLPzz21Q5CDy8aHo
 https://assetstore.unity.com/packages/tools/modeling/probuilder-111418
 https://www.reddit.com/r/Unity2D/comments/3dfi5k/lets_create_a_list_of_all_100_free_2d_assets_with/
-_________________________
 
 #### Asset Sites
 https://itch.io/game-assets/free
 https://opengameart.org/
 https://unitylist.com/
 https://unlikekinds.com/t/game-developer-resources
+_________________________
 
 
+
+
+### Unreal Engine Assets
+__________________________________
+#### Asset Store
+https://www.unrealengine.com/en-US/blog/new-free-content-coming-to-the-unreal-engine-marketplace
+__________________________________
 
 #### Art
 http://www.manuelbastioni.com/gallery.php
@@ -45,6 +52,6 @@ _______________________________________________
 # Game Dev News
 https://www.unrealengine.com/en-US/blog/epic-2019-cross-platform-online-services-roadmap?sessionInvalidated=true
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNjk3MDExNCwxOTA1OTE5Myw4MTQ4Mj
-MxODIsLTE4ODE3OTU1NjldfQ==
+eyJoaXN0b3J5IjpbLTEyMDkzNDY1NTEsMTkwNTkxOTMsODE0OD
+IzMTgyLC0xODgxNzk1NTY5XX0=
 -->
