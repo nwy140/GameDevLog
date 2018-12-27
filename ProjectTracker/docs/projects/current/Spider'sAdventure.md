@@ -65,7 +65,8 @@ _____________________________________
                 - Basic
                     - Left/Right
                     - Duck
-                    - Climb Walls
+                - Spider Exclusive
+	                - Web zip
                 - Special
                     - Slide Dash
             - Air
@@ -75,10 +76,8 @@ _____________________________________
                         - Triple Jump
                 - Special
                     - Air Dash
-                    - Grab on to ledge
                     - Slam Down
-                    - Cling on to walls and Jump From It
-                    - Float/Glide On Air
+                 
 - World Interaction
     - Environmental
         - Interact with Objects
@@ -153,6 +152,6 @@ Use the space below to write them down
 _________________
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NzkwMTg4LC0xMzE5NDYxMjY5LDE0ND
-k2OTAwMzVdfQ==
+eyJoaXN0b3J5IjpbLTMwMDcyOTc5MiwxNzk3OTAxODgsLTEzMT
+k0NjEyNjksMTQ0OTY5MDAzNV19
 -->
