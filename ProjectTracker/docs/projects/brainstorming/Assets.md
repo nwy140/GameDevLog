@@ -27,7 +27,7 @@ https://unitylist.com/
 https://unlikekinds.com/t/game-developer-resources
 https://www.construct.net/en/forum/game-development/tools-and-resources-27/kenneys-free-assets-20-000-ass-70995
 https://free3d.com/3d-models/city
-
+https://assetstore.unity.com/lists/free-buildings-28800
 
 #### BorderLine Danger
 http://unityassetcollection.com/polygon-city-pack-free-download/
@@ -60,7 +60,7 @@ _______________________________________________
 # Game Dev News
 https://www.unrealengine.com/en-US/blog/epic-2019-cross-platform-online-services-roadmap?sessionInvalidated=true
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMzEwMDM4MywtNjIwNTQwNjQ5LDQ0OT
-c4Mzk1MiwtMTIwOTM0NjU1MSwxOTA1OTE5Myw4MTQ4MjMxODIs
-LTE4ODE3OTU1NjldfQ==
+eyJoaXN0b3J5IjpbLTEyMDUwMDc0NDcsLTYyMDU0MDY0OSw0ND
+k3ODM5NTIsLTEyMDkzNDY1NTEsMTkwNTkxOTMsODE0ODIzMTgy
+LC0xODgxNzk1NTY5XX0=
 -->
