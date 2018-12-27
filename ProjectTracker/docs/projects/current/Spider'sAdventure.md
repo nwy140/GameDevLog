@@ -58,6 +58,67 @@ _____________________________________
 
 #### Mechanics
 ###### Core Mechanics
+- Core Mechanics
+    - Navigation
+        - Movement
+            - Ground
+                - Basic
+                    - Left/Right
+                    - Duck
+                    - Climb Walls
+                - Special
+                    - Slide Dash
+                    - Ball Rolling
+            - Air
+                - Basic
+                    - Jumping
+                        - Double Jump
+                        - Triple Jump
+                - Special
+                    - Air Dash
+                    - Grab on to ledge
+                    - Slam Down
+                    - Cling on to walls and Jump From It
+                    - Float/Glide On Air
+- World Interaction
+    - Environmental
+        - Interact with Objects
+            - Physics
+                - Basic
+                    - Grab/Throw
+                    - Pull/Push
+                - Special
+                    - Black Hole Vacuum Absorb
+                    - Reflect/Bounceback (Laser. Pong Style Physics)
+        - RPG
+            - Store/Consume/Equip/Drop
+            - Examine
+            - Reaction Command / QTE
+        - Objects ... Vary from Games to Games
+            - Object
+                - Weapons
+                    - Range
+                        - Guns
+                        - Bows and Arrows
+                    - Melee
+                        - Sword
+                        - Power Gloves
+                        - Knifes
+                        - Shuriken
+                    - Special
+                - Consumables
+                    - HP/MP Potions
+                    - Powerups
+                - Misc
+        - Combat
+            - Basic
+                - Range
+                - Melee
+            - Special
+                - Skill Meter
+                - Limit Break/Climax time
+                - Charge Attack
+                - Combat Damage Conditions ... eg. jump on enemy
 
 ###### Game Progression
 
@@ -93,5 +154,6 @@ Use the space below to write them down
 _________________
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTk0NjEyNjksMTQ0OTY5MDAzNV19
+eyJoaXN0b3J5IjpbMTY3MDA2NjQ5OSwtMTMxOTQ2MTI2OSwxND
+Q5NjkwMDM1XX0=
 -->
