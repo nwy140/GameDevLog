@@ -33,4 +33,4 @@ Progress
     - [ ]  Monetized $1 USD
 
 ### Setback
-Since you missed the polygon city pack november give away, you would have to  buy it back with the money you earned completely from your own game. 
+Since you missed the polygon city pack november give away, you would have to  earn enough money to buy it back completely from your own game.
