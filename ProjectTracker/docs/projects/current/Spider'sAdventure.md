@@ -28,24 +28,27 @@ Spider's Adventure
 
 ### Themes
 
-## Short Description
+### Short Description
 
 ### Summary
 
 ### World Setting
+___________________________________
+#### World Locations
+___________________________________
 
 ### Plot
 
 ### Player Experience
 
 ### GamePlay
+_____________________________________
+#### Mechanics
 
-### Mechanics
+##### Game Progression
 
-### Game Progression
-
-### Win/Lose Condition
-
+##### Win/Lose Condition
+______________________________________
 ### Items
 
 ### GameModes
@@ -66,5 +69,5 @@ Use the space below to write them down
 _________________
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg3NDk5MzY3XX0=
+eyJoaXN0b3J5IjpbLTgxMjAzMjIyNF19
 -->
