@@ -16,7 +16,7 @@ Markdown is documentation written using cloudcannon,prose.io, stackedit and fast
 
 ## Projects
 
-### CurrentProject in Development
+### CurrentProject  
 1. [Spider's Adventure]
 
 ### VideoGames
