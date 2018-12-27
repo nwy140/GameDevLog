@@ -1,5 +1,6 @@
 Adventure Game Pitching Template �
 -----
+
 ## Contents
 
 - [Themes](#themes)
@@ -26,26 +27,42 @@ Adventure Game Pitching Template �
 - [Easter Eggs](#easter-eggs)
 - [Reference](#reference)
 
+### Themes
 
-## Short Description
+### Short Description
 
 ### Summary
 
 ### World Setting
+___________________________________
+
+#### World Locations
+___________________________________
 
 ### Plot
 
 ### Player Experience
 
 ### GamePlay
+_____________________________________
 
-### Mechanics
+#### Mechanics
 
-### Game Progression
+##### Game Progression
 
-### Win/Lose Condition
+##### Win/Lose Condition
 
+______________________________________
 ### Items
+_____________________________________________________
+
+#### Generic Weapons
+
+#### Special Weapons
+
+#### Non Lethal
+
+____________________________________________________
 
 ### GameModes
 
@@ -63,6 +80,7 @@ Use the space below to write them down
 
 * * * * *
 _________________
+
 
 HyperCasual Pitching Template�
 =====
@@ -229,5 +247,5 @@ objects that show up in the scene.
 The matrices for the perspective and viewing transforms and how using shaders
 could be defined.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NTE1MjM0NiwtODk3NDY4ODQ2XX0=
+eyJoaXN0b3J5IjpbMTg4OTA4MzA2LC04OTc0Njg4NDZdfQ==
 -->
