@@ -34,6 +34,7 @@ Spider's Adventure
 
 ### World Setting
 ___________________________________
+
 #### World Locations
 ___________________________________
 
@@ -43,13 +44,24 @@ ___________________________________
 
 ### GamePlay
 _____________________________________
+
 #### Mechanics
 
 ##### Game Progression
 
 ##### Win/Lose Condition
+
 ______________________________________
 ### Items
+_____________________________________________________
+
+#### Generic Weapons
+
+#### Special Weapons
+
+#### Non Lethal
+
+____________________________________________________
 
 ### GameModes
 
@@ -69,5 +81,5 @@ Use the space below to write them down
 _________________
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMjAzMjIyNF19
+eyJoaXN0b3J5IjpbOTgxOTg2NjgyXX0=
 -->
