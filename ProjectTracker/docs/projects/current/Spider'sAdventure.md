@@ -66,7 +66,9 @@ _____________________________________
                     - Left/Right
                     - Duck
                 - Spider Exclusive
-	                - Web zip
+	                - Web Zip
+	                - Web Swing
+	                - Climb walls
                 - Special
                     - Slide Dash
             - Air
@@ -152,6 +154,6 @@ Use the space below to write them down
 _________________
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMDcyOTc5MiwxNzk3OTAxODgsLTEzMT
+eyJoaXN0b3J5IjpbMTk2NTYwMjkwMCwxNzk3OTAxODgsLTEzMT
 k0NjEyNjksMTQ0OTY5MDAzNV19
 -->
