@@ -25,6 +25,11 @@ https://opengameart.org/
 https://unitylist.com/
 https://unlikekinds.com/t/game-developer-resources
 
+
+
+#### Art
+http://www.manuelbastioni.com/gallery.php
+
 ### Audio
 __________________________
 #### Music
@@ -32,6 +37,6 @@ https://www.gamedev.net/news/free-commercially-usable-royalty-free-music-library
 http://beta.ccmixter.org/stems
 _______________________________________________
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTc3MjkyNjksMTkwNTkxOTMsODE0OD
-IzMTgyLC0xODgxNzk1NTY5XX0=
+eyJoaXN0b3J5IjpbLTU4MTk4MTQ3OCwxOTA1OTE5Myw4MTQ4Mj
+MxODIsLTE4ODE3OTU1NjldfQ==
 -->
