@@ -68,7 +68,6 @@ _____________________________________
                     - Climb Walls
                 - Special
                     - Slide Dash
-                    - Ball Rolling
             - Air
                 - Basic
                     - Jumping
@@ -154,6 +153,6 @@ Use the space below to write them down
 _________________
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MDA2NjQ5OSwtMTMxOTQ2MTI2OSwxND
-Q5NjkwMDM1XX0=
+eyJoaXN0b3J5IjpbMTc5NzkwMTg4LC0xMzE5NDYxMjY5LDE0ND
+k2OTAwMzVdfQ==
 -->
