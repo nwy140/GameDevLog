@@ -31,6 +31,6 @@ Progress
 - [ ]  Week 4
     - [ ]  Production Ready Released
     - [ ]  Monetized $1 USD
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzcxMDA0NzZdfQ==
--->
+
+### Setback
+Since you missed the polygon city pack november give away, you would have to  buy it back with the money you earned completely from your own game. 
