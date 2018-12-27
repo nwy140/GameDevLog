@@ -30,16 +30,7 @@ Spider's Adventure
 ### Themes
 Everyday Life Household Insects & Objects
 
-- **Short Description**
 
-.
-
-- **Summary**
-
-    
-- **World Setting**
-
-    
 ### Short Description
  In this game, you play as a literal spider. The spider does whatever a spider can and will struggle and fight through any other foreign beings it encounters
  
@@ -49,9 +40,13 @@ Action Puzzled Chibi Cartoony Platformer.
 
 
 ### World Setting
+
 ___________________________________
 
 #### World Locations
+From Urban households, backyard, vehicles to jungles and foreign lands
+
+
 ___________________________________
 
 ### Plot
@@ -98,5 +93,5 @@ Use the space below to write them down
 _________________
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc1MTM1MDM4LDE0NDk2OTAwMzVdfQ==
+eyJoaXN0b3J5IjpbLTEzMTk0NjEyNjksMTQ0OTY5MDAzNV19
 -->
