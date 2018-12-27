@@ -6,6 +6,9 @@ Markdown documentation written using cloudcannon,prose.io, stackedit and fasthub
 - [Projects](#Projects)
 	- [VideoGames](#VideoGames)
     - [BrainStorm](#BrainStorm)
+	    - [GameIdeasPack](#GameIdeasPack)
+	    - [FeatureIdeasPack](#FeatureIdeasPack)
+	    - [StoryLinePack](#StoryLinePack)
 - [Challenges](#Challenges)
 
 
@@ -22,6 +25,8 @@ Below are the list of Games Design Documents Ready for Development
 
 ### BrainStorm
 Below are a compilation of ideas from my BrainStorming
+
+#### GameIdeasPack
 1. [GameIdeasPack1](https://github.com/nwy140/GameDevLog/blob/master/ProjectTracker/docs/projects/brainstorming/GameIdeasPack1.md)
 2. [GameIdeasPack2](https://github.com/nwy140/GameDevLog/blob/master/ProjectTracker/docs/projects/brainstorming/GameIdeasPack2.md)
 3. [GameIdeasPack3](https://github.com/nwy140/GameDevLog/blob/master/ProjectTracker/docs/projects/brainstorming/GameIdeasPack3.md)
@@ -35,5 +40,6 @@ Below are the challenges that I decided to partake
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMjk3MTkxNCwxNzIyMjMwMDQ3XX0=
+eyJoaXN0b3J5IjpbLTM5NTAxODUwMiwxMDMyOTcxOTE0LDE3Mj
+IyMzAwNDddfQ==
 -->
