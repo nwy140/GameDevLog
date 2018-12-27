@@ -12,6 +12,7 @@ Adventure Game Pitching Template �
 - [Player Experience](player-experience)
 - [GamePlay](#gameplay)
     - [Mechanics](Mechanics)
+	    - [Core Mechanics](core-mechanics)
         - [Game Progression](#game-progression)
         - [Win/Lose Condition](#win/lose-condition)
     - [Items](#items)
@@ -47,10 +48,11 @@ ___________________________________
 _____________________________________
 
 #### Mechanics
+###### Core Mechanics
 
-##### Game Progression
+###### Game Progression
 
-##### Win/Lose Condition
+###### Win/Lose Condition
 
 ______________________________________
 ### Items
@@ -247,5 +249,5 @@ objects that show up in the scene.
 The matrices for the perspective and viewing transforms and how using shaders
 could be defined.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4OTA4MzA2LC04OTc0Njg4NDZdfQ==
+eyJoaXN0b3J5IjpbLTEwMzU4Mzk4OTksLTg5NzQ2ODg0Nl19
 -->
