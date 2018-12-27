@@ -2,29 +2,22 @@
 
 
 ### Instructions
-==
-Day 2
+-----
+#### Day 2
 
-Step 1:
+> Step 1: What is your favorite character fighting for? What is his motivation for that? 
+> Step 2: Use a picture of your character 
+> Step 3:
+> Post that in the group using hashtags  [#characterchallenge]
 
-What is your favorite character fighting for? What is his motivation for that?
 
+#### Day 3
 
-Step 2: Use a picture of your character
-
-Step 3: Post that in the group using hashtags  [#characterchallenge]
-
-Day 3 of the Create Your Game Hero Challenge
-
-Below you can read the task for today and don't forget to sign up for the grand finale of the Create Your Hero Challenge(link is at the bottom)
-
-Step 1: What are the skills of your favorite character?
-
-Step 2: Use a picture of your character
-
-Step 3: Post that in the group using hashtags  
-
-Don’t forget to sign up for the grand finale of the challenge:
+> Below you can read the task for today and don't forget to sign up for the grand finale of the Create Your Hero Challenge(link is at the bottom) 
+> Step 1: What are the skills of your favorite character?
+> Step 2: Use a picture of your character
+> Step 3: Post that in the group using hashtags  
+> Don’t forget to sign up for the grand finale of the challenge:
 
 Day 4
 
@@ -113,5 +106,5 @@ Mewey
 
 Adus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzgyNDM1MDNdfQ==
+eyJoaXN0b3J5IjpbMTc0MzQ4Nzg0Nl19
 -->
