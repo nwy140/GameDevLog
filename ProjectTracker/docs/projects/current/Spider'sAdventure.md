@@ -11,6 +11,7 @@ Spider's Adventure
 - [Player Experience](player-experience)
 - [GamePlay](#gameplay)
     - [Mechanics](Mechanics)
+	    - [Core Mechanics](core-mechanics)
         - [Game Progression](#game-progression)
         - [Win/Lose Condition](#win/lose-condition)
     - [Items](#items)
@@ -46,11 +47,11 @@ ___________________________________
 _____________________________________
 
 #### Mechanics
-##### Core Mechanics
+###### Core Mechanics
 
-##### Game Progression
+###### Game Progression
 
-##### Win/Lose Condition
+###### Win/Lose Condition
 
 ______________________________________
 ### Items
@@ -82,5 +83,5 @@ Use the space below to write them down
 _________________
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NjA5ODQyMV19
+eyJoaXN0b3J5IjpbMTQ0OTY5MDAzNV19
 -->
