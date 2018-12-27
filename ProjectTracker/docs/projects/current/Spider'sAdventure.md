@@ -57,6 +57,10 @@ ___________________________________
 _____________________________________
 
 #### Mechanics
+
+#### Controls Overview
+
+
 ###### Core Mechanics
 - Core Mechanics
     - Navigation
@@ -66,9 +70,10 @@ _____________________________________
                     - Left/Right
                     - Duck
                 - Spider Exclusive
-	                - Web Zip
-	                - Web Swing
+	                - Web Zip by Axis Controls
+	                - Web Swing 
 	                - Climb walls
+	                - Drop off walls
                 - Special
                     - Slide Dash
             - Air
@@ -154,6 +159,6 @@ Use the space below to write them down
 _________________
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NTYwMjkwMCwxNzk3OTAxODgsLTEzMT
-k0NjEyNjksMTQ0OTY5MDAzNV19
+eyJoaXN0b3J5IjpbMTQ3MDI5ODk0MSwxOTY1NjAyOTAwLDE3OT
+c5MDE4OCwtMTMxOTQ2MTI2OSwxNDQ5NjkwMDM1XX0=
 -->
