@@ -1,36 +1,29 @@
 Adventure Game Pitching Template �
 -----
-### Contents
+## Contennts
 
--   **Themes**
-
--   **Short Description**
-
--   **Summary**
-
--   **World Setting**
-
--   **Plot**
-
--   **Player Experience**
-
--   **GamePlay**
-
-    -   **Mechanics**
-
-        -   **GameProgression**
-
-        -   **Win/Lose Condition**
-
-    -   **Items**
-
-    -   **GameModes**
-
--   **BGM**
-
--   **Easter Eggs**
-
--   **References**
+- [Themes](#themes)
+- [Short Description](#short-description)
+- [Summary](#summary)
+- [World Setting](#world-setting)
+    - [World Locations](world-locations)
+- [Plot](#plot)
+- [Player Experience#](player-experience)- [GamePlay](#gameplay)
+    - [Mechanics](Mechanics)
+        - [Game Progression](#game-progression)
+        - [Win/Lose Condition](#win/lose-condition)
+    - [Items](#items)
+        - [Generic Weapons](#generic-weapons)
+        - [Special Weapons](#special-weapons)
+        - [Action](#action)
+        - [Vehicle Skins](#vehicle-skins)
+        - [Human Skins](#human-skins)
+    - [Enemies](#enemies)
+        - [Bosses](#bosses)
+    - [GameModes](#gamemodes)
+- [BGM](#bgm)
+- [Easter Eggs](#easter-eggs)
+- [Reference](#reference)
 
 **Short Description**
 
@@ -60,29 +53,6 @@ Adventure Game Pitching Template �
 
 **References**
 * * * * *
-
-- [Short Description](#short-description)
-- [Summary](#summary)
-- [World Setting](#world-setting)
-    - [World Locations](world-locations)
-- [Plot](#plot)
-- [Player Experience](player-experience)
-- [GamePlay](#gameplay)
-    - [Mechanics](Mechanics]
-        - [Game Progression](#game-progression)
-        - [Win/Lose Condition](#win/lose-condition)
-    - [Items](#items)
-        - [Generic Weapons](#generic-weapons)
-        - [Special Weapons](#special-weapons)
-        - [Action](#action)
-        - [Vehicle Skins](#vehicle-skins)
-        - [Human Skins](#human-skins)
-    - [Enemies](#enemies)
-        - [Bosses](#bosses)
-    - [GameModes](#gamemodes)
-- [BGM](#bgm)
-- [Easter Eggs](#easter-eggs)
-- [Reference](#reference)
 
 If you have a completely seperate idea
 
@@ -256,5 +226,5 @@ objects that show up in the scene.
 The matrices for the perspective and viewing transforms and how using shaders
 could be defined.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMDUyNTQ3OV19
+eyJoaXN0b3J5IjpbMTc1ODkzNTA3Nl19
 -->
