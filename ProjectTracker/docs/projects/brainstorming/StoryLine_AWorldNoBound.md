@@ -24,6 +24,7 @@ Type: StoryLine
 
     Origin: Received a text message to play a new game called AWorldNoBounds. Accidentally end up getting sucked into a digital simulation created by his brother.
     Motives: Had to bypass and solve every single challenge presented to him by his brother in order to leave this world. Save other inhabitants trapped in this world
+    
 
 ## Characters
 
@@ -129,3 +130,6 @@ Type: StoryLine
     After 25 years of playing the simulatiom
     
     Future Arc starts
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjA5NzIwOTgxMF19
+-->
