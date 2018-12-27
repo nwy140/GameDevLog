@@ -25,33 +25,35 @@ Adventure Game Pitching Template �
 - [Easter Eggs](#easter-eggs)
 - [Reference](#reference)
 
-**Short Description**
 
-**Summary**
+## Short Description##
 
-**World Setting**
+### Summary
 
-**Plot**
+### World Setting
 
-**Player Experience**
+##Plot##
 
-**GamePlay**
+##Player Experience##
 
-**Mechanics**
+##GamePlay##
 
-*Game Progression*
+##Mechanics##
 
-*Win/Lose Condition*
+#Game Progression#
 
-**Items**
+#Win/Lose Condition#
 
-**GameModes**
+##Items##
 
-**BGM**
+##GameModes##
 
-**Easter Eggs**
+##BGM##
 
-**References**
+##Easter Eggs##
+
+##References##
+# # # # #
 * * * * *
 
 If you have a completely seperate idea
@@ -226,5 +228,5 @@ objects that show up in the scene.
 The matrices for the perspective and viewing transforms and how using shaders
 could be defined.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1ODkzNTA3Nl19
+eyJoaXN0b3J5IjpbMjk1ODg3NTUxXX0=
 -->
