@@ -59,7 +59,18 @@ _____________________________________
 #### Mechanics
 
 #### Controls Overview
+[Ultimate Spiderman NDS Reference](https://gamefaqs.gamespot.com/ds/928413-ultimate-spider-man/faqs/44061)
+                  -=[ Spider-Man ]=-                 
 
+> +Control Pad    : Move/Crouch/Aim/Swing             B Button        : Jump/Web Swing                     X Button        : Punch            
+> A Button        : Kick                                Y Button [hold]
+> : Web Line/Zip & Object Interaction   Y Button [tap]  : Web Shot      
+> Start Button    : Pause Game                          Select Button  
+> : Cycles special moves in multi.    R Button        : Special Move    
+> L Button        : Dodge                             Touch Screen    :
+> Select Special Moves
+
+              
 
 ###### Core Mechanics
 - Core Mechanics
@@ -159,6 +170,6 @@ Use the space below to write them down
 _________________
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MDI5ODk0MSwxOTY1NjAyOTAwLDE3OT
+eyJoaXN0b3J5IjpbMjA5MjgyMjg2MiwxOTY1NjAyOTAwLDE3OT
 c5MDE4OCwtMTMxOTQ2MTI2OSwxNDQ5NjkwMDM1XX0=
 -->
