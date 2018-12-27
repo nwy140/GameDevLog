@@ -10,10 +10,12 @@ Game A Week Challenge
 Challenge yourself to make a finished game every week.
 And make at least $1 USD out of every game you make
 
-Games
-
+Game A Week Themes
 ---
 
+
+Progress
+---
 - [ ]  Week 1
     - [ ]  Production Ready Released
     - [ ]  Monetized $1 USD
@@ -26,3 +28,6 @@ Games
 - [ ]  Week 4
     - [ ]  Production Ready Released
     - [ ]  Monetized $1 USD
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEyNDk0ODExNTddfQ==
+-->
