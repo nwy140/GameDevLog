@@ -8,7 +8,7 @@ Markdown documentation written using cloudcannon,prose.io, stackedit and fasthub
     - [BrainStorm](#BrainStorm)
 	    - [GameIdeasPack](#GameIdeasPack)
 	    - [FeatureIdeasPack](#FeatureIdeasPack)
-	    - [StoryLinePack](#StoryLinePack)
+	    - [StoryLines](#StoryLines)
 - [Challenges](#Challenges)
 
 
@@ -27,11 +27,19 @@ Below are the list of Games Design Documents Ready for Development
 Below are a compilation of ideas from my BrainStorming
 
 #### GameIdeasPack
+
 1. [GameIdeasPack1](https://github.com/nwy140/GameDevLog/blob/master/ProjectTracker/docs/projects/brainstorming/GameIdeasPack1.md)
 2. [GameIdeasPack2](https://github.com/nwy140/GameDevLog/blob/master/ProjectTracker/docs/projects/brainstorming/GameIdeasPack2.md)
 3. [GameIdeasPack3](https://github.com/nwy140/GameDevLog/blob/master/ProjectTracker/docs/projects/brainstorming/GameIdeasPack3.md)
 4. [GameIdeasPack4](https://github.com/nwy140/GameDevLog/blob/master/ProjectTracker/docs/projects/brainstorming/GameIdeasPack4.md)
 5. [GameIdeasPack5](https://github.com/nwy140/GameDevLog/blob/master/ProjectTracker/docs/projects/brainstorming/GameIdeasPack5.md)
+
+#### FeatureIdeasPack
+1. [FeatureIdeasPack1](https://github.com/nwy140/GameDevLog/blob/master/ProjectTracker/docs/projects/brainstorming/FeaturesIdeasPack1.md)
+
+#### StoryLines
+1. [StoryLine](
+
 
 ### Challenges
 Below are the challenges that I decided to partake
@@ -40,6 +48,6 @@ Below are the challenges that I decided to partake
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NTAxODUwMiwxMDMyOTcxOTE0LDE3Mj
-IyMzAwNDddfQ==
+eyJoaXN0b3J5IjpbLTE5MDM0OTg5NzUsMTAzMjk3MTkxNCwxNz
+IyMjMwMDQ3XX0=
 -->
