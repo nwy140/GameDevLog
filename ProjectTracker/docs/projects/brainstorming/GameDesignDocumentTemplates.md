@@ -8,7 +8,7 @@ Adventure Game Pitching Template �
 - [World Setting](#world-setting)
     - [World Locations](world-locations)
 - [Plot](#plot)
-- [Player Experience#](player-experience)- [GamePlay](#gameplay)
+- [Player Experience#y](player-experience)- [GamePlay](#gameplay)
     - [Mechanics](Mechanics)
         - [Game Progression](#game-progression)
         - [Win/Lose Condition](#win/lose-condition)
@@ -32,28 +32,28 @@ Adventure Game Pitching Template �
 
 ### World Setting
 
-##Plot##
+### Plot
 
-##Player Experience##
+### Player Experience
 
-##GamePlay##
+### GamePlay
 
-##Mechanics##
+### Mechanics
 
-#Game Progression#
+### Game Progression
 
-#Win/Lose Condition#
+### Win/Lose Condition
 
-##Items##
+### Items
 
-##GameModes##
+### GameModes
 
-##BGM##
+### BGM
 
-##Easter Eggs##
+### Easter Eggs
 
-##References##
-# # # # #
+### References
+
 * * * * *
 
 If you have a completely seperate idea
@@ -228,5 +228,5 @@ objects that show up in the scene.
 The matrices for the perspective and viewing transforms and how using shaders
 could be defined.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk1ODg3NTUxXX0=
+eyJoaXN0b3J5IjpbLTE1NDkxMTkyNzRdfQ==
 -->
