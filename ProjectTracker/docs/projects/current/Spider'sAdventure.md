@@ -32,19 +32,21 @@ Everyday Life Household Insects & Objects
 
 - **Short Description**
 
-    In this game, you play as a literal spider. The spider does whatever a spider can and will struggle and fight through any other foreign beings it encounters.
+.
 
 - **Summary**
 
-    Action Puzzled Chibi Cartoony Platformer.
-
+    
 - **World Setting**
 
-    From Urban households, backyard, vehicles to jungles and foreign lands
-
+    
 ### Short Description
+ In this game, you play as a literal spider. The spider does whatever a spider can and will struggle and fight through any other foreign beings it encounters
+ 
+### Summary 
+Action Puzzled Chibi Cartoony Platformer.
+. 
 
-### Summary
 
 ### World Setting
 ___________________________________
@@ -96,5 +98,5 @@ Use the space below to write them down
 _________________
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEyOTQzMjQsMTQ0OTY5MDAzNV19
+eyJoaXN0b3J5IjpbMjc1MTM1MDM4LDE0NDk2OTAwMzVdfQ==
 -->
