@@ -1,6 +1,6 @@
 Spider's Adventure
 -----
-## Contennts
+## Contents
 
 - [Themes](#themes)
 - [Short Description](#short-description)
@@ -81,5 +81,5 @@ Use the space below to write them down
 _________________
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgxOTg2NjgyXX0=
+eyJoaXN0b3J5IjpbOTgyNzMxMTgyXX0=
 -->
