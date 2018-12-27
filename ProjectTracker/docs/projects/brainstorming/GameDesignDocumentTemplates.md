@@ -27,7 +27,7 @@ Adventure Game Pitching Template �
 - [Reference](#reference)
 
 
-## Short Description##
+## Short Description
 
 ### Summary
 
@@ -229,5 +229,5 @@ objects that show up in the scene.
 The matrices for the perspective and viewing transforms and how using shaders
 could be defined.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NjMxODQxNF19
+eyJoaXN0b3J5IjpbLTg5NzQ2ODg0Nl19
 -->
