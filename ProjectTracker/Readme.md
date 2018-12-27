@@ -31,9 +31,9 @@ Below are a compilation of ideas from my BrainStorming
 ### Challenges
 Below are the challenges that I decided to partake
 1. [GameAWeek](https://github.com/nwy140/GameDevLog/blob/master/ProjectTracker/docs/challenges/Challenge_GameAWeek.md)
-2. 
+2. [GameJams](http://www.indiegamejams.com/)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMjIzMDA0N119
+eyJoaXN0b3J5IjpbMTAzMjk3MTkxNCwxNzIyMjMwMDQ3XX0=
 -->
