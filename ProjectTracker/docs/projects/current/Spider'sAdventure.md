@@ -46,6 +46,7 @@ ___________________________________
 _____________________________________
 
 #### Mechanics
+##### Core Mechanics
 
 ##### Game Progression
 
@@ -81,5 +82,5 @@ Use the space below to write them down
 _________________
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgyNzMxMTgyXX0=
+eyJoaXN0b3J5IjpbLTk1NjA5ODQyMV19
 -->
