@@ -22,9 +22,9 @@ Below are the list of Games Design Documents Ready for Development
 
 ### BrainStorm
 Below are a compilation of ideas from my BrainStorming
-1. [GameIdeaPack1)[GameIdeaPack1]
-2. 
-
+1. [GameIdeasPack1](https://github.com/nwy140/GameDevLog/blob/master/ProjectTracker/docs/projects/brainstorming/GameIdeasPack1.md)
+2. [GameIdeasPack2](https://github.com/nwy140/GameDevLog/blob/master/ProjectTracker/docs/projects/brainstorming/GameIdeasPack2.md)
+3. [GameIdeasPack3](
 
 ### Challenges
 Below are the challenges that I decided to partake
@@ -35,5 +35,5 @@ okay
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NzgxOTIzNF19
+eyJoaXN0b3J5IjpbODAwMzE0MzU1XX0=
 -->
