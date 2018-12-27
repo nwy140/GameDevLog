@@ -3,8 +3,8 @@ This folder in this repository stores documentation and project tracking for my 
 
 # Table of Contents
 - [Projects](#Projects)
-	- [Video Games](#Video Games)
+	- [VideoGames](#VideoGames)
     
 ## Projects
 
-### Video Games
+### VideoGames
