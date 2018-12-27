@@ -38,7 +38,9 @@ Below are a compilation of ideas from my BrainStorming
 1. [FeatureIdeasPack1](https://github.com/nwy140/GameDevLog/blob/master/ProjectTracker/docs/projects/brainstorming/FeaturesIdeasPack1.md)
 
 #### StoryLines
-1. [StoryLine](
+1. [StoryLine_NightCycle](https://github.com/nwy140/GameDevLog/blob/master/ProjectTracker/docs/projects/brainstorming/StoryLine_NightCycle.md)
+2. [StoryLine_AWorldNoBound](https://github.com/nwy140/GameDevLog/blob/master/ProjectTracker/docs/projects/brainstorming/StoryLine_AWorldNoBound.md)
+3. [StoryLine_ActiveDimension](https://github.com/nwy140/GameDevLog/blob/master/ProjectTracker/docs/projects/brainstorming/StoryLine_ActiveDimension.md)
 
 
 ### Challenges
@@ -48,6 +50,6 @@ Below are the challenges that I decided to partake
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDM0OTg5NzUsMTAzMjk3MTkxNCwxNz
+eyJoaXN0b3J5IjpbLTE3Mzk1ODM3MzksMTAzMjk3MTkxNCwxNz
 IyMjMwMDQ3XX0=
 -->
