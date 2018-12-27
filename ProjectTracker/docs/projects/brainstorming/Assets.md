@@ -36,7 +36,15 @@ __________________________
 https://www.gamedev.net/news/free-commercially-usable-royalty-free-music-library-with-hundreds-of-professional-quality-songs-loops-for-download-r511/
 http://beta.ccmixter.org/stems
 _______________________________________________
+
+
+
+
+
+
+# Game Dev News
+https://www.unrealengine.com/en-US/blog/epic-2019-cross-platform-online-services-roadmap?sessionInvalidated=true
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MTk4MTQ3OCwxOTA1OTE5Myw4MTQ4Mj
+eyJoaXN0b3J5IjpbMTYwNjk3MDExNCwxOTA1OTE5Myw4MTQ4Mj
 MxODIsLTE4ODE3OTU1NjldfQ==
 -->
