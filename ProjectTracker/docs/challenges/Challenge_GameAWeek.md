@@ -13,6 +13,9 @@ And make at least $1 USD out of every game you make
 Game A Week Themes
 ---
 
+ [WeeklyGameJam](http://www.http://www.weeklygamejam.com/.com/)
+
+ 1. Waiting for Next Week
 
 Progress
 ---
@@ -29,5 +32,5 @@ Progress
     - [ ]  Production Ready Released
     - [ ]  Monetized $1 USD
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDk0ODExNTddfQ==
+eyJoaXN0b3J5IjpbLTIxMzcxMDA0NzZdfQ==
 -->
