@@ -6,8 +6,7 @@ Markdown documentation written using cloudcannon,prose.io, stackedit and fasthub
 - [Projects](#Projects)
 	- [VideoGames](#VideoGames)
     - [BrainStorm](#BrainStorm)
-- (Challenges)[Challenges]
-    
+- [Challenges](#Challenges)
 ## Projects
 
 ### VideoGames
@@ -17,7 +16,7 @@ Below are the list of Games Design Documents Ready for Development
 3. [NightCycle](https://github.com/nwy140/GameDevLog/blob/master/ProjectTracker/docs/projects/videogames/3.NightCycle.md)
 4. [Kenzo'sDestiny](https://github.com/nwy140/GameDevLog/blob/master/ProjectTracker/docs/projects/videogames/4.Kenzo'sDestiny.md)
 5. [EvilSanta](https://github.com/nwy140/GameDevLog/blob/master/ProjectTracker/docs/projects/videogames/5.EvilSanta.md)
-6. [RunawayMonkeyFrenzy](https://github.com/nwy140/GameDevLog/blob/master/ProjectTracker/docs/projects/videogames/6.RunawayMonkeyFrenzy.md
+6. [RunawayMonkeyFrenzy](https://github.com/nwy140/GameDevLog/blob/master/ProjectTracker/docs/projects/videogames/6.RunawayMonkeyFrenzy.md)
 
 ### BrainStorm
 Below are a compilation of ideas from my BrainStorming
@@ -34,5 +33,5 @@ okay
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU5NDczMjE0XX0=
+eyJoaXN0b3J5IjpbLTExMTAyNTc2ODZdfQ==
 -->
