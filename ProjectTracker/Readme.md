@@ -4,6 +4,7 @@ Markdown is documentation written using cloudcannon,prose.io, stackedit and fast
 
 # Table of Contents
 - [Projects](#Projects)
+	- [CurrentProject](#CurrentProject)
 	- [VideoGames](#VideoGames)
     - [BrainStorm](#BrainStorm)
 	    - [GameIdeasPack](#GameIdeasPack)
@@ -14,6 +15,10 @@ Markdown is documentation written using cloudcannon,prose.io, stackedit and fast
 
 
 ## Projects
+
+### CurrentProject in Development
+1. [Spider's Adventure]
+
 ### VideoGames
 Below are the list of Games Design Documents Ready for Development
 1. [PlanetRocketBoost](https://github.com/nwy140/GameDevLog/blob/master/ProjectTracker/docs/projects/videogames/1.PlanetRocketBoost.md) 
