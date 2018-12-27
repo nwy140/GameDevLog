@@ -14,9 +14,15 @@ http://www.unitygeek.com/free-assets-unity-assetstore/
 
 #### Cool Assets
 https://www.youtube.com/watch?v=ZIOlc6XIZLI
+https://www.youtube.com/playlist?list=PLS9MbmO_ssyBV81FrTLPzz21Q5CDy8aHo
 https://assetstore.unity.com/packages/tools/modeling/probuilder-111418
 https://www.reddit.com/r/Unity2D/comments/3dfi5k/lets_create_a_list_of_all_100_free_2d_assets_with/
 _________________________
+
+#### Asset Sites
+https://itch.io/game-assets/free
+https://opengameart.org/
+https://unlikekinds.com/t/game-developer-resources
 
 ### Audio
 __________________________
@@ -25,6 +31,6 @@ https://www.gamedev.net/news/free-commercially-usable-royalty-free-music-library
 http://beta.ccmixter.org/stems
 _______________________________________________
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNTkxOTMsODE0ODIzMTgyLC0xODgxNz
-k1NTY5XX0=
+eyJoaXN0b3J5IjpbMjM0NDU3NTA1LDE5MDU5MTkzLDgxNDgyMz
+E4MiwtMTg4MTc5NTU2OV19
 -->
