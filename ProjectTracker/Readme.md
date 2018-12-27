@@ -17,7 +17,7 @@ Markdown is documentation written using cloudcannon,prose.io, stackedit and fast
 ## Projects
 
 ### CurrentProject  
-1. [Spider's Adventure]
+1. [Spider's Adventure](https://github.com/nwy140/GameDevLog/blob/master/ProjectTracker/docs/projects/current/Spider'sAdventure.md) 
 
 ### VideoGames
 Below are the list of Games Design Documents Ready for Development
